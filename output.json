@@ -1,0 +1,86 @@
+{
+    "class": "VI,",
+    "subject": "Science",
+    "questions": [
+        {
+            "question": "The value of acceleration due to gravity",
+            "options": {
+                "a": "is least on equator",
+                "b": "is least on poles",
+                "c": "is same on equator and poles.",
+                "d": "increases from pole to equator"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "Give the chemical formulae for the following compounds and compute the ratio by mass of the combining elements in each one of them.",
+            "options": {
+                "a": "Ammonia",
+                "b": "Carbon  monoxide",
+                "c": "Hydrogen chloride",
+                "d": "Aluminium fluoride"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "Write the molecular formulae for the following compounds",
+            "options": {
+                "a": "Aluminium (III) nitrate",
+                "b": "Calcium (II) phosphate",
+                "c": "Mercury (II) chloride",
+                "d": "Magnesium (II) acetate"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "Which one of the following has maximum number of atoms?",
+            "options": {
+                "a": "18 g of H2O",
+                "b": "18 g of O2",
+                "c": "18 g of CO2",
+                "d": "18 g of CH4"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "Survival of plants in terrestrial environment has been made possible by the presence of",
+            "options": {
+                "a": "intercalary meristem",
+                "b": "conducting tissue",
+                "c": "apical meristem",
+                "d": "parenchymatous tissue"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "In which group of animals coelom is filled with blood?",
+            "options": {
+                "a": "Arthropoda",
+                "b": "Annelida",
+                "c": "Nematoda",
+                "d": "Echinodermata"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "Organisms without nucleus and cell organelles belong to",
+            "options": {
+                "a": "Fungi",
+                "b": "Protista",
+                "c": "Algae",
+                "d": "Bacteria"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which cells do not have perforated cell walls?",
+            "options": {
+                "a": "Tracheids",
+                "b": "Companion cells",
+                "c": "Sieve tubes",
+                "d": "Vessels"
+            },
+            "correct_answer": "a"
+        }
+    ]
+}
